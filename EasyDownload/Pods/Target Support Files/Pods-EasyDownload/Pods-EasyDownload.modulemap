@@ -1,0 +1,6 @@
+framework module Pods_EasyDownload {
+  umbrella header "Pods-EasyDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}
